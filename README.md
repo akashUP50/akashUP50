@@ -6,12 +6,12 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love turning complex data into meaningful insights!
 
-### Skills
-- **BI Tools**: Power BI
-- **Data Analysis Tools**: Advanced Excel
-- **Programming Languages**: Python
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
-- **Database Management**: SQL
+## Skills
+- **BI Tools:** Power BI, Tableau  
+- **Data Analysis Tools:** Advanced Excel, Jupyter Notebook  
+- **Programming Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Database Management:** SQL 
 
 
 <!---
